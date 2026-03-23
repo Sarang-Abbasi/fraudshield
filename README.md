@@ -259,6 +259,8 @@ MIT — free to use for educational purposes.
 
 Built by **Sarang Abbasi** ·
 
+Available for freelance projects — [Connect on LinkedIn](https://www.linkedin.com/in/sarang-abbasi-6a7a30232)
+
 ---
 
 > 🚨 Report real scams to **Action Fraud: 0300 123 2040** · [actionfraud.police.uk](https://www.actionfraud.police.uk)
