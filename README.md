@@ -257,7 +257,7 @@ MIT — free to use for educational purposes.
 
 ## 👤 Author
 
-Built by **Sarang Abbasi** · University Final Year Project
+Built by **Sarang Abbasi** ·
 
 ---
 
