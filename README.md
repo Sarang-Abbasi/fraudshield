@@ -6,12 +6,6 @@ FraudShield is a university final-year project built with **Next.js 14**, **Type
 
 ---
 
-## 🌐 Live Demo
-
-> Deploy your own — see [Deployment](#-deployment) below.
-
----
-
 ## ✨ Features
 
 | Module | Description |
@@ -192,17 +186,6 @@ Edit `src/data/chatSimulations.ts` — follow the branching node structure. Each
 | `refund_bait` | Fake tax rebates and refunds |
 
 ---
-
-## 📦 Deployment
-
-### Vercel (Recommended — free)
-
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) and click **"New Project"**
-3. Import your GitHub repo
-4. Click **Deploy** — done
-
-> Note: Vercel's serverless functions don't persist files between requests. For production with file storage, use a VPS (DigitalOcean, Railway) or swap `filedb.ts` for a database like PostgreSQL or MongoDB.
 
 ### Local Production Build
 ```bash
