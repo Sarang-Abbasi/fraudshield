@@ -4,8 +4,16 @@
 
 FraudShield is a university final-year project built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. It teaches scam awareness through interactive scenario training, visual recognition exercises, and branching chat simulations — not just passive reading.
 
+
+
 ---
 
+<img width="1353" height="644" alt="Screenshot 2026-03-24 134737" src="https://github.com/user-attachments/assets/0cb3979f-9205-400e-88fd-61b739735e9a" />
+<img width="1347" height="633" alt="1" src="https://github.com/user-attachments/assets/cafcf073-f82c-48ea-93f9-bffa8b1d0248" />
+<img width="1350" height="640" alt="2" src="https://github.com/user-attachments/assets/35cedf82-b6a2-47ce-bd7e-3bb5fe3fbaf2" />
+<img width="1349" height="639" alt="3" src="https://github.com/user-attachments/assets/b1bbe5e6-61de-48b4-bef9-9ac18d1faa6f" />
+
+---
 ## ✨ Features
 
 | Module | Description |
